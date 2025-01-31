@@ -18,4 +18,4 @@ The dataset for this project contains historical data of customers, including in
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourGitHubUsername/Customer-Lifetime-Value-Prediction
+   git clone https://github.com/Srinathi117/Customer-Lifetime-Value-Prediction
